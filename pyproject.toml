@@ -1,0 +1,8 @@
+[project]
+name = "factorial-app"
+version = "1.0.0"
+description = "Застосунок для обчислення факторіалу числа"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
